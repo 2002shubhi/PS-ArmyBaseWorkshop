@@ -20,7 +20,6 @@ rounded drone detection system to the Indian Army.
 4) Albumentation library
 5) Google Tensorboard
 
-### BITS Pilani PS-1 Project. <br />
 ![alt text](https://github.com/suyash-03/PS-ArmyBaseWorkshop/blob/main/sample1.jpg?raw=true)
 <br />
 ![alt text](https://github.com/suyash-03/PS-ArmyBaseWorkshop/blob/main/sample2.jpg?raw=true)
@@ -37,8 +36,4 @@ rounded drone detection system to the Indian Army.
 
 2) Testing of the product will be done, and the bugs or glitches if found will be fixed. We will also create a readme file for the program and then final product, along with the entire source code will be submitted to our PS instructor.
 
-### BITS Pilani PS-1 Project. <br />
-![alt text](https://github.com/suyash-03/PS-ArmyBaseWorkshop/blob/main/sample1.jpg?raw=true)
-<br />
-![alt text](https://github.com/suyash-03/PS-ArmyBaseWorkshop/blob/main/sample2.jpg?raw=true)
 
